@@ -1,2 +1,1 @@
-# hello-world
-Design files
+I am an electrical engineer who moved from Scotland to Colorado in 1995. Being a keen hobby photographer, I investigated sensor-operated camera traps, such as TriggerTrap and Time Machine, and, finding then sorely lacking, embarked on building my own. 
